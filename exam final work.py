@@ -1,5 +1,5 @@
 import random
-s
+
 def load_words():
     try:
         with open("words.txt", "r") as file:
